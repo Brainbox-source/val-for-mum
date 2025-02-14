@@ -14,7 +14,7 @@
         };
         
 
-        // Messages for your dad
+        // Messages for mum
         const messages = [
             "Happy val mum! ❤️",
             "Mom, you are the best! Love you! ❤️",
